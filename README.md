@@ -1,19 +1,9 @@
 # Twitter-Web3.0
 
+ <img src =''>
+Twitter Web3.0 is a Next.Js application that is built on Ethereum Blockchain using IPFS system and deplying on ethcode 
 
-> Winner at Hack The Mountains 3.0 MLH Track - Best use of Appwrite
-
-<center>
-<a href = "https://github.com/The-Powerpuff-Boys/schedu-mate/issues"><img src = https://img.shields.io/github/issues/The-Powerpuff-Boys/schedu-mate></a>
-<a href = "https://github.com/The-Powerpuff-Boys/schedu-mate/fork"><img src = https://img.shields.io/github/forks/The-Powerpuff-Boys/schedu-mate></a>
-	<a href = "https://github.com/The-Powerpuff-Boys/schedu-mate/stargazers"><img src = https://img.shields.io/github/stars/The-Powerpuff-Boys/schedu-mate></a>
-  <a href = "https://github.com/The-Powerpuff-Boys/schedu-mate/blob/master/LICENSE"><img src = https://img.shields.io/github/license/The-Powerpuff-Boys/schedu-mate></a>
-  </center>
- <img src ='.github/images/landing.png'>
-
-ScheduMate is a web application that allows you to easily see the classes that you have in common with your friends. Friends make classes so much better!
-
-## Table of Contents
+<!-- ## Table of Contents
 
 - [Inspiration](#inspiration)
 - [What it does?](#what-it-does)
@@ -28,27 +18,20 @@ ScheduMate is a web application that allows you to easily see the classes that y
 - [Screenshots Time](#screenshots-time)
 - [Contributing](#contributing)
 - [License](#license)
-- [About Us](#about-us)
-
-## Inspiration
-
-Do you ever reach out to your friends to compare class schedules but forget who you have classes common with when they roll around? Or have you wanted to know if any friends are in a specific class but it’s way too time consuming to ask everyone? Some university classes have over 200 students, and with so many different profs, class times and classes, it’s a hassle to compare schedules and connect with your friends before classes start.
-
-Also getting all the information scattered in various groups and apps is a pain. Reaching different domains to get different data is quite a hassle.
+- [About Us](#about-us) -->
 
 ## What it does?
 
-ScheduMate is a platform to support students in maintaining _close relationships_ with their friends throughout university. It allows students to keep track of their classes in a personalized schedule, cultivate a friends list, and view their matching classes with their friends. The application allows you to enter your scheduled classes, add friends and see with who you share classes. It also provides all the important notifications and notices available on your university website. Our website does the heavy lifting so that students can have greater visibility into connecting with their peers. ScheduMate maintains a highly secure system where users can create, log in, and log out of their accounts, and the necessary information will always be readily available for them. With added features of accessing notes, and being up to date with latest news and notices of the university, ScheduMate is
-the one stop solution for all your university needs.
+It’s a Decentralized Twitter where users can create their own NFT and mint it and also set this NFT as their profile picture linked to their profile . it's user -friendly and gives more security to the user and make the database and personal information more secure. Decentralized database makes easy to find the node in the blockchain where it is stored . we have used IPFS to store minted pictures on pinata and even can check it on ipfs browser that it follows the rules and shows the minted picture on georli testnest network. we have deployed it on ethcode and we have made smart contract in ethereum.
 
-## How we built it?
+<!-- ## How we built it?
 
-This Project is proudly built with [Appwrite](https://appwrite.io/) and Hosted on [Digital Ocean](https://www.digitalocean.com/).
+This Project is proudly built with [Appwrite](https://appwrite.io/) and Hosted on [Digital Ocean](https://www.digitalocean.com/). -->
 
-<!-- 'Made with Appwrite' badge -->
+<!-- 'Made with Appwrite' badge 
 <a href="https://appwrite.io/" target="_blank" style=";right: 18px;bottom: 18px;z-index: 999;">
   <img style="width: 130px;" src="https://appwrite.io/images-ee/press/badge-pink-box.svg" alt="Built with Appwrite">
-</a>
+</a> -->
 
 Our Frontend is designed with [React](https://reactjs.org/) and [Bulma](https://bulma.io/) and [Tailwind](https://tailwindcss.com/) Framework. We also used Sass(https://sass-lang.com/) for styling.
 
@@ -58,14 +41,13 @@ Cloud Functions has been written in various Languages and some of the code taken
 
 Even though our team had knowledge of various techstacks, we still had quite a hurdles.
 
-[Biswa](https://github.com/2002Bishwajeet) - For him, it was his first time integrating appwrite on a react project, hosting Appwrite on Digital Ocean, settings up domain and SSL, use subdomain for appwrite and main domain for frontend. Also, he had to learn how to use Appwrite's SDK and API for the JS application. For him, setting a production server was a new experience.
+Chirag - For him, it was his second time developing on ethereum blockchain on a next.js application, using IPFS ,sanity database and ethcode and making smart contract on solidity. Also, he had to learn how to use Lens Protocol. For him, deploying on ethcode was new experience .
 
-[Harsh](https://github.com/harshsH-28) - For him, it was his first time integrating Appwrite with React. Working with Appwrite SDK and state management was a major challenge for him. He collaborated with Biswa to integrate and fix the crucial bugs for the Appwrite SDK and also deployed Frontend along with Biswa.
+Lakshya - For him, it was his first time integrating with nextjs and metamask . He collaborated with Chirag to integrate and fix the crucial bugs for the smart contract and minting.
 
-[Gunjan](https://github.com/GunjanGupta26) - For her, it was her first time particpating in a hackathon and she was quite thrilled and did a great job. She played role in building the frontend. She was the lead in designing and beautifying the website using css. She took time designing the UI for the website but achieved the desired look.
+Harsh - For him, it was his first time particpating in a hackathon and he was quite thrilled and did a great job. he played role in building the frontend and ppt . he was the lead in designing and beautifying the website using tailwindcss. he took time designing the UI for the website but achieved the desired look.
 
-[Vidhu](https://github.com/Kranium2002) - He was a lead in designing the UI for the website. He also helped in writing cloud functions for appwrite and helped Biswa in deploying cloud functions successfully. Deploying and writing web scraper python code and population the database was a major challenge for him.
-
+<!-- 
 ## Accomplishments that we're proud of?
 
 We are proud that this project is ready for production and can be used readily for our university at least. Using an Open Source Backend as a Service ([Appwrite](https://appwrite.io/)). This project has been deployed successfully and can be viewed in any device.
@@ -196,7 +178,7 @@ Since this project was built during Hack the Mountains 3.0, we would be seldomly
 
 This project is MIT [Licensed](./LICENSE)
 
-## About Us
+## About Us -->
 
 We are The Powerpuff Rangers (formerly The Powerpuff Boys)
 
